@@ -1,7 +1,14 @@
 
 nav ul, li{
     display: flex;
-    justify-content: space-between;
-    background-color: aquamarine;
+    justify-content: space-evenly;
+    background-color: gray;
     text-decoration: none;
+    color : white;
+
+}
+
+
+img {
+    width: 40px;
 }
