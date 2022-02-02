@@ -1,0 +1,7 @@
+
+nav ul, li{
+    display: flex;
+    justify-content: space-between;
+    background-color: aquamarine;
+    text-decoration: none;
+}
