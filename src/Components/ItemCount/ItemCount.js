@@ -11,6 +11,7 @@ const ItemCount = (props) => {
   };
 
   return <> <h1>AGREGUE PRODUCTOS</h1>
+            <input></input>
             <h3>{count}</h3>
             <button onClick={increment}>+</button>
             <button onClick={decrement}>-</button>
