@@ -11,7 +11,7 @@ function App() {
     <div className="App">
       <Navbar title="E-Comerce" color="grey"/>
       <ItemList />
-      <ItemCount />
+      <ItemCount sotck={'6'} initial={'1'}/>
     </div>
     
    
